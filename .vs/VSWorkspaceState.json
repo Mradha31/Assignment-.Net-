@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BookManagment",
+    "\\BookManagment\\Controllers",
+    "\\BookManagment\\Views"
   ],
+  "SelectedNode": "\\BookManagment.sln",
   "PreviewInSolutionExplorer": false
 }
